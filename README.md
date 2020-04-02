@@ -1,2 +1,2 @@
 # Quiz-App
-This is a basic quiz app i have designed 
+This is a basic quiz app . I have designed.
